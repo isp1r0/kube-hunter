@@ -7,3 +7,4 @@ pytest-cov
 setuptools >= 30.3.0
 setuptools_scm
 twine
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
